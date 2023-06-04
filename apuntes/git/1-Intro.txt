@@ -1,0 +1,4 @@
+1) Commit: Con git commit puedes crear instantáneas de tu progreso y guardar los cambios efectuados. Este comando es uno de los más importantes cuando se trabaja en un proyecto. 
+2) Fetch: Git fetch es un comando principal que se usa para descargar contenidos desde un repositorio remoto.
+3) Pull: Git pull se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido.
+4) Push: Git push sube el contenido de un repositorio local a un repositorio central.
